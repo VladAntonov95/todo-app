@@ -12,7 +12,7 @@ This is Todo app made with react, react-dom and taiwind for styles. Data saved i
 This Todo app have next features: 1. Add new tasks. 2. Toggle tasks between done and undone states. 3. Edit existing tasks. 4. Delete tasks from the list. 5. Local storage for persisting data using localStorage.
 
 Instalation:
-1.1. Clone repository "git clone https://github.com/your-username/todo-list.git" !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1.1. Clone repository "git clone https://github.com/your-username/todo-list.git"
 1.2. Navigate to the project directory "cd todo-list"
 1.3. Install dependencies "npm install"
 
